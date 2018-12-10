@@ -8,6 +8,7 @@
 4. Israel Picasso.
 
 De ahí el nombre.
+
 ## La idea.
 Todos coincidimos en que es necesario darle valides a los datos que se ofrecen en los distintos datasets que se tienen/tenían disponibles.
 Por ello coincidimos con este artículo del BID donde menciona que es importante involucrar al ciudadado para luchar con la corrupción usando las distintas plataformas digitales.
@@ -20,9 +21,9 @@ La idea central es usar el dataset de COMPRANET , y usando un documento que ha l
 Puedes ver el PDF para entender mejor la idea.
 
 ## Entregables del datatón anticorrupción
-El dataset de COMPRANET no es el más sencillo de usar, ni el más limpio, así que uno de nuestos entregables es la versión ya limpia del dataset recibido ese día y la presentación utilizada.
+El dataset de COMPRANET no es el más sencillo de usar, ni el más limpio, así que uno de nuestos entregables son los primeros datos que logramos obtener despues de limpiar el data set.
 
-### Información de COMPRANET ya limpia y lista para su uso.
+### Información de COMPRANET.
 - [Análisis en Google Data Studio](https://datastudio.google.com/u/0/reporting/14P7PMeEulzwju4hR9a6NIrgx5S1eVCX6/page/z4yd)
 
 ### La presentación.
