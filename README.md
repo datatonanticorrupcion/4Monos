@@ -5,7 +5,7 @@
 1. Héctor Iván Patricio Moreno   [@hectorip ](https://twitter.com/hectorip)
 2. José Dagoberto Herrera Murillo [@djherreram ](https://twitter.com/djherreram)
 3. Isaac Ruiz Guerra [@RuGI ](https://twitter.com/RuGI)
-4. Israel Picasso.
+4. Israel Picazo.
 
 De ahí el nombre.
 
@@ -25,13 +25,13 @@ El dataset de COMPRANET no es el más sencillo de usar, ni el más limpio, así 
 
 ### Información de COMPRANET.
 - [Análisis en Google Data Studio](https://datastudio.google.com/u/0/reporting/14P7PMeEulzwju4hR9a6NIrgx5S1eVCX6/page/z4yd)
+- [Dataset preparado para Google Cloud Platform](/compranet_bq.json.zip)
+- [Consultas de ejemplo](/example_unnest.sql)
 
 ### La presentación.
-El archivo pdf contiene la presentación utilizada el día del datatón.
+El (archivo pdf)[/presentacion_4_monos.pdf] contiene la presentación utilizada el día del datatón.
 
 ### Interesados.
 Pueden escribirnos a nuestras cuentas de twitter.
 
-Gracias a SG por relizar este evento interdisciplinario, aprendimos mucho y validamos varias cosas.
-
-
+Gracias a *SG* por relizar este evento interdisciplinario, aprendimos mucho y validamos varias cosas.
