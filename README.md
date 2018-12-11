@@ -26,7 +26,7 @@ El dataset de COMPRANET no es el más sencillo de usar, ni el más limpio, así 
 ### Información de COMPRANET.
 - [Análisis en Google Data Studio](https://datastudio.google.com/u/0/reporting/14P7PMeEulzwju4hR9a6NIrgx5S1eVCX6/page/z4yd)
 - [Dataset preparado para Google Cloud Platform](https://drive.google.com/file/d/1NzHIa5i_8ZoKfqiQd8QlEvGvyx2ecwOP/view?usp=sharing)
-- [Consultas de ejemplo](/example_unnest.sql)
+- [Consultas de ejemplo](/example_unnest_compranet.sql)
 
 ### La presentación.
 El (archivo pdf)[/presentacion_4monos.pdf] contiene la presentación utilizada el día del datatón.
