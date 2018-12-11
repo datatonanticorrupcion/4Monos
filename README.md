@@ -5,12 +5,12 @@
 1. Héctor Iván Patricio Moreno   [@hectorip ](https://twitter.com/hectorip)
 2. José Dagoberto Herrera Murillo [@djherreram ](https://twitter.com/djherreram)
 3. Isaac Ruiz Guerra [@RuGI ](https://twitter.com/RuGI)
-4. Israel Picazo.
+4. Israel Picazo
 
 De ahí el nombre.
 
 ## La idea.
-Todos coincidimos en que es necesario darle valides a los datos que se ofrecen en los distintos datasets que se tienen/tenían disponibles.
+Todos coincidimos en que es necesario darle validez a los datos que se ofrecen en los distintos datasets que se tienen/tenían disponibles.
 Por ello coincidimos con este artículo del BID donde menciona que es importante involucrar al ciudadado para luchar con la corrupción usando las distintas plataformas digitales.
 
 [3 avances técnologicos para luchar contra la corrupción en infraestructura](https://blogs.iadb.org/gobernarte/2018/11/21/3-avances-tecnologicos-para-luchar-contra-la-corrupcion-en-infraestructura/
@@ -25,11 +25,11 @@ El dataset de COMPRANET no es el más sencillo de usar, ni el más limpio, así 
 
 ### Información de COMPRANET.
 - [Análisis en Google Data Studio](https://datastudio.google.com/u/0/reporting/14P7PMeEulzwju4hR9a6NIrgx5S1eVCX6/page/z4yd)
-- [Dataset preparado para Google Cloud Platform](/compranet_bq.json.zip)
+- [Dataset preparado para Google Cloud Platform](https://drive.google.com/file/d/1NzHIa5i_8ZoKfqiQd8QlEvGvyx2ecwOP/view?usp=sharing)
 - [Consultas de ejemplo](/example_unnest.sql)
 
 ### La presentación.
-El (archivo pdf)[/presentacion_4_monos.pdf] contiene la presentación utilizada el día del datatón.
+El (archivo pdf)[/presentacion_4monos.pdf] contiene la presentación utilizada el día del datatón.
 
 ### Interesados.
 Pueden escribirnos a nuestras cuentas de twitter.
